@@ -72,10 +72,13 @@ h2 {
 }
 
 #team {
-    background: url();
+    background: url(https://images.all-free-download.com/images/graphicthumb/nostalgic_blue_background_03_hd_picture_169784.jpg);
     background-size: cover;
-    color: rgb(12, 11, 11);
+    color: white;
     text-align: center;
+}
+.img-circle {
+    border-radius: 50%;
 }
 
 h2 + p {
