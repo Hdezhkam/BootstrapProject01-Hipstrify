@@ -6,7 +6,7 @@ body,
 }
 
 .cover {
-    background: url(#) top left no-repeat;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwyDSAyRS0k1fr94Z_VEmi4Zv5ALcCX5GRzThdkdeauyXp1M4) top left no-repeat;
     background-size: cover;
     width: 100%;
     display: table;
@@ -23,8 +23,9 @@ body,
 
 .cover-text h1 {
     margin: 0;
-    font-size: 70px;
+    font-size: 60px;
     letter-spacing: -3px;
+    padding: 10px;
 }
 
 nav .navbar-inverse {
@@ -80,6 +81,11 @@ h2 {
 h2 + p {
     text-align: center;
     margin-top: -60;
+}
+
+#signup .row {
+    width: 50%;
+   
 }
 
 footer {
